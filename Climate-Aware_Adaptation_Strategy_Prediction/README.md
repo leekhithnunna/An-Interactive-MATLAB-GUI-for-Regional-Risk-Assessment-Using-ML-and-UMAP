@@ -100,7 +100,11 @@ Hence, we switched to **clustering using UMAP + KMeans/GMM**, which:
 ```text
 Classifier: Random Forest
 Accuracy: 21.2%
+```
 
 ## 🙌 Credits
 - Developed by Leekhith Nunna,
 - Amrita Vishwa Vidyapeetham
+
+## Failed Project
+## Because dataset doesn't support of Classification problem
